@@ -1,5 +1,3 @@
-# VS-Code-Editor-Settings
-
 {
   "editor.quickSuggestions": {
     "other": true,
@@ -65,6 +63,7 @@
   "editor.guides.indentation": true,
   "workbench.colorTheme": "GitHub Dark Default",
   "json.schemas": [
-  
+
   ],
+  "files.autoSave": "afterDelay"
 }
