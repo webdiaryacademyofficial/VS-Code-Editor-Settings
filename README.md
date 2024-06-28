@@ -12,7 +12,7 @@
   "javascript.suggest.autoImports": true,
   "typescript.suggest.autoImports": true,
   "eslint.enable": true,
-  "prettier.requireConfig": true,
+  "prettier.requireConfig": false,
   "files.associations": {
     "*.js": "javascriptreact",
     "*.jsx": "javascriptreact"
