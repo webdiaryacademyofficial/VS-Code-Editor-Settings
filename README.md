@@ -40,7 +40,12 @@
   // Additional Suggestions:
   "editor.fontSize": 14,
   "editor.fontFamily": "Monaco, 'Courier New', monospace",
+  "editor.tabSize": 2,
   "editor.formatOnSave": true,
+  "prettier.singleQuote": true,
+  "prettier.trailingComma": "all",
+  "prettier.arrowParens": "avoid",
+  "prettier.printWidth": 100,
   "editor.minimap.enabled": false,
   "editor.cursorSmoothCaretAnimation": "on",
   "editor.cursorBlinking": "smooth",
@@ -62,8 +67,9 @@
   "search.showLineNumbers": true,
   "editor.guides.indentation": true,
   "workbench.colorTheme": "GitHub Dark Default",
-  "json.schemas": [
-
-  ],
-  "files.autoSave": "afterDelay"
+  "json.schemas": [],
+  "files.autoSave": "afterDelay",
+  "supermaven.enable": {
+    "*": true
+  }
 }
