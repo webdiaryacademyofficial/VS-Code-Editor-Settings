@@ -1,3 +1,6 @@
+## settings.json
+
+```json
 {
   "editor.quickSuggestions": {
     "other": true,
@@ -73,3 +76,4 @@
     "*": true
   }
 }
+```
